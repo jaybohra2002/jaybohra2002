@@ -37,4 +37,5 @@ I care about the properties that are easy to miss in a happy-path demo: what hap
 ## Connect
 
 - GitHub: [@jaybohra2002](https://github.com/jaybohra2002)
+- LinkedIn: [Jay Bohra](https://www.linkedin.com/in/jay-bohra/)
 
